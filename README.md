@@ -1,3 +1,3 @@
 # CorrelationTest
 
-Parametric Correlation Analysisand Nonparametric Correlation Analysis
+Parametric Correlation Analysis and Nonparametric Correlation Analysis
